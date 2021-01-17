@@ -72,6 +72,27 @@ Berikut ini adalah soal Ujian Akhir Semester(UAS) yang diberikan oleh dosen saya
    
    ![Screenshot (170)](https://user-images.githubusercontent.com/72993076/104835095-c23dae80-58d6-11eb-9a37-47158878866b.png)
 
+4) Main 
+
+   main.py berisi : program utama (menu pilihan yang memanggil semua menu yang ada).
+   
+   ![Screenshot (173)](https://user-images.githubusercontent.com/72993076/104837217-a8f02e80-58e5-11eb-8a91-1edc8de56e80.png)
+   
+   ![Screenshot (174)](https://user-images.githubusercontent.com/72993076/104837220-aab9f200-58e5-11eb-8bbe-5a7c0c877f38.png)
+   
+Setelah semmuanya selesai maka kita akan menjalankan/run syntax untuk mengerun atau menjalankan syntax harus yang main karena pilihan menunya ada di main Berikut adalah tampilan dari program atau syntax- syntax yang sudah kita buat tadi:
+
+![Screenshot (180)](https://user-images.githubusercontent.com/72993076/104837559-f7063180-58e7-11eb-9cbe-e5ddafd530fd.png)
+
+![Screenshot (178)](https://user-images.githubusercontent.com/72993076/104837561-fbcae580-58e7-11eb-9259-77d6175a0667.png)
+
+# SEMOGA BERMANFAAT :) SEKIAN DAN TERIMA KASIH :)
+
+
+
+
    
    
+   
+
 
